@@ -58,7 +58,7 @@ mostrarCartelGanador();
 
 // Implementar alguna forma de mostrar un cartel que avise que ganaste el juego
 function mostrarCartelGanador() {
-  alert("¡Lo lograste! Has ganado el juego.");
+  alert("¡Lo lograste! Eres la mujer mas increible y te mereces lo mejor! TE AMO OJITOS DE MI CORAZÓN");
   var pregunta = prompt("¿Quieres volver a jugar? \n1. Si \n2. No");
   switch (pregunta) {
     case "1":
